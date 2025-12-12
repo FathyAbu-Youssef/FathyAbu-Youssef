@@ -7,7 +7,7 @@
 
 ## Hi there 👋
 
-### I'm **Fathy Abu-Youssef**, a dedicated and disciplined developer building my future on a strong and practical programming foundation.
+### I'm **Fathy Abu-Youssef**, a dedicated and disciplined developer building a strong and practical programming foundations.
 
 ---
 
@@ -44,4 +44,5 @@
 ### **Core Knowledge**
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-02569B?style=flat-square)
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-5C2D91?style=flat-square)
-![Database Design](https://img.
+![Database Design](https://img.shields.io/badge/Database%20Design-4479A1?style=flat-square)
+
